@@ -38,40 +38,4 @@ cd qdPM/
 wget https://www.exploit-db.com/exploits/50944
 ls -l
 service apache2 start
-HISTORY
-history
-apt-get python3
-apt-get install python3
-apt-get update
-apt-get upgrade
-ls -l
-wget https://www.exploit-db.com/exploits/50944
-unzip https://www.exploit-db.com/exploits/50944
-ls -l
-wget https://www.exploit-db.com/exploits/50944
-ls -l
-cd ..
-ls -l
-nano index.html
-cd qdPM/
-ls -l
-rm 50944.1 
-rm 50944.2
-ls -l
-cd ..
-exit
-service apache2 restart
-cd /var/www/html/qdPM/
-exit
-cp /home/indhu/Downloads* /home/indhu
-cp /home/indhu/Downloads* .
-cp -r /home/indhu/Downloads* .
-ls -l
-cd Downloads/
-ls -l
-cd f922670e98bcbcff923d9bfaf430e669-qdPM_9.1/
-ls -l
-cd /var/www/html/qdPM/
-cp f922670e98bcbcff923d9bfaf430e669-qdPM_9.1 .
-ls -l
 exit
